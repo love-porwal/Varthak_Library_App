@@ -16,8 +16,6 @@ Manage and Try our Varthak for an added boost to your business!
 This library app project is a Node.js application built with TypeScript and Express, featuring user authentication, 
 role-based access control, and the ability to manage and view books, with support for logging incoming requests using Winston.
 
-#Deployment Link : https://varthak-library-app.onrender.com
-
 ## Project Demo
 https://drive.google.com/file/d/1kc5m0A_Wvf8G88-nUCEX0lFfrHkQ_bw8/view?usp=sharing
   
